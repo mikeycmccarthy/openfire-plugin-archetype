@@ -1,0 +1,1 @@
+Maven archetype for easy creation of an Openfire plugin. Creates a plugin package structure and pom compatible with the Maven Openfire plugin (http://maven.reucon.com/projects/public/maven-openfire-plugin/1.0.1/).
