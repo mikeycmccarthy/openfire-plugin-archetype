@@ -1,0 +1,14 @@
+<plugin>
+    <class>com.example.openfire.plugins.myplugin.MyPlugin</class>
+    <name>${pom.name}</name>
+    <description>${pom.description}</description>
+    <author>${pom.organization.name}</author>
+    <version>${pom.version}</version>
+    <date>${openfire-plugin.build.date}</date>
+    <minServerVersion>3.6.4</minServerVersion>
+    <licenseType>gpl</licenseType>
+
+    <adminconsole>
+
+    </adminconsole>
+</plugin>
